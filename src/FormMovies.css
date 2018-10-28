@@ -1,0 +1,24 @@
+.FormMovies{
+text-align: center;
+}
+.FormMovies h1 {
+  text-align: center;
+  font-style: oblique;
+  margin-bottom: 5%;
+}
+.FormMovies fieldset{
+  margin:auto;
+  width: 80%;
+}
+.FormMovies .container{
+  display: flex;
+  justify-content: center;
+  height: 45px;
+  margin-top: 2%;
+}
+.FormMovies label{
+  margin-right: 5%;
+  width: 100px;
+  display: inline-block;
+  text-align: right;
+}
